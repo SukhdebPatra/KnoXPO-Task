@@ -1,0 +1,19 @@
+.showmodal-btn {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
+.showmodal-btn i{
+    font-size: 41px;
+    color: #6347ff;
+    cursor: pointer;
+}
+.branches-issues img,.issues-img img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: fill;
+}
+.commit-title{
+    font-size: 20px;
+}
